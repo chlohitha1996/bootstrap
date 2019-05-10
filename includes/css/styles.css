@@ -170,7 +170,7 @@ ul.unstyled {
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
 	
-	#myCarousel .item { height: 100%; }
+	#myCarousel .item { height: 310px; }
 	
 	#slide1 {
 		background: url('../../images/carousel_small_01.jpg') top center no-repeat;
